@@ -5,11 +5,11 @@ This is a C program to strip "/1" and "/2" from BAM QNAME fields. It was an exer
 
 To Install:
 
-		git clone https://github.com/bluecranium/bamfix.git
-		cd bamfix
-		git clone git://github.com/samtools/samtools.git
-		cd samtools
-		make
-		cd ..
-		make
+	git clone https://github.com/bluecranium/bamfix.git
+	cd bamfix
+	git clone git://github.com/samtools/samtools.git
+	cd samtools
+	make
+	cd ..
+	make
 
